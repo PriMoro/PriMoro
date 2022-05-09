@@ -6,7 +6,11 @@ PriMoro/PriMoro is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 These are all my skills
-![LOGOS_page-0001](https://user-images.githubusercontent.com/86128822/167321761-72c6fc84-f941-4627-8fc7-05a930d833c9.jpg)
+
+
+
+
+![LOGOS_page-0001-removebg](https://user-images.githubusercontent.com/86128822/167325713-ab4fa617-40e5-4732-bd16-999eff509548.png)
 - Feel free to know all my projects.
 - If you want, you can contact me here:
 - 📫 Mail: prisu03@gmail.com
