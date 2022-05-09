@@ -8,9 +8,9 @@ You can click the Preview link to take a look at your changes.
 These are all my skills
 
 
+![LOGOS_page-0001](https://user-images.githubusercontent.com/86128822/167325914-967bfab8-4eb5-497d-8ec2-c32096f94c76.jpg)
 
 
-![LOGOS_page-0001-removebg](https://user-images.githubusercontent.com/86128822/167325713-ab4fa617-40e5-4732-bd16-999eff509548.png)
 - Feel free to know all my projects.
 - If you want, you can contact me here:
 - 📫 Mail: prisu03@gmail.com
